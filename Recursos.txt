@@ -1,2 +1,2 @@
 Día 1: rec dia uno rama main
-Día 2: rec dia dos rama master
+Día 2: rec dia dos rama mastermaster
